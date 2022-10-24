@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-dxlaon*5(m(!tyw_2)3@7+$izdpnys#j_yg-#847c##2d%=s1=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','meetmeon.herokuapp.com']
 
 
 # Application definition
